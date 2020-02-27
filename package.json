@@ -1,0 +1,24 @@
+{
+  "name": "offshore-company-geo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start_webpack": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robinzon100/offshore-company-geo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robinzon100/offshore-company-geo/issues"
+  },
+  "homepage": "https://github.com/Robinzon100/offshore-company-geo#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
